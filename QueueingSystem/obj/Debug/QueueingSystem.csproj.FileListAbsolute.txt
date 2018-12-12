@@ -1,0 +1,16 @@
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\bin\Debug\QueueingSystem.exe.config
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\bin\Debug\QueueingSystem.exe
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\bin\Debug\QueueingSystem.pdb
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\bin\Debug\ModelProject.exe
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\bin\Debug\ModelProject.pdb
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\bin\Debug\ModelProject.exe.config
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\obj\Debug\QueueingSystem.csprojAssemblyReference.cache
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\obj\Debug\QueueingSystem.QueueingSystemForm.resources
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\obj\Debug\QueueingSystem.Properties.Resources.resources
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\obj\Debug\QueueingSystem.csproj.GenerateResource.cache
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\obj\Debug\QueueingSystem.csproj.CoreCompileInputs.cache
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\obj\Debug\QueueingSystem.csproj.CopyComplete
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\obj\Debug\QueueingSystem.exe
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\QueueingSystem\obj\Debug\QueueingSystem.pdb

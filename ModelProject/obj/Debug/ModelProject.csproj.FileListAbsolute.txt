@@ -1,0 +1,7 @@
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\ModelProject\bin\Debug\ModelProject.exe.config
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\ModelProject\bin\Debug\ModelProject.exe
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\ModelProject\bin\Debug\ModelProject.pdb
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\ModelProject\obj\Debug\ModelProject.csprojAssemblyReference.cache
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\ModelProject\obj\Debug\ModelProject.csproj.CoreCompileInputs.cache
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\ModelProject\obj\Debug\ModelProject.exe
+C:\Users\galia\Desktop\Программирование\4 курс\Компьютерное моделирование\ModelProject\ModelProject\obj\Debug\ModelProject.pdb
